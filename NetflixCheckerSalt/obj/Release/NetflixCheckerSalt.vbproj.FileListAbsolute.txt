@@ -1,0 +1,13 @@
+C:\Users\Matthew\source\repos\NetflixCheckerSalt\NetflixCheckerSalt\bin\Release\NetflixCheckerSalt.exe.config
+C:\Users\Matthew\source\repos\NetflixCheckerSalt\NetflixCheckerSalt\bin\Release\NetflixCheckerSalt.exe
+C:\Users\Matthew\source\repos\NetflixCheckerSalt\NetflixCheckerSalt\bin\Release\NetflixCheckerSalt.pdb
+C:\Users\Matthew\source\repos\NetflixCheckerSalt\NetflixCheckerSalt\bin\Release\NetflixCheckerSalt.xml
+C:\Users\Matthew\source\repos\NetflixCheckerSalt\NetflixCheckerSalt\obj\Release\NetflixCheckerSalt.NetflixCheckerForm.resources
+C:\Users\Matthew\source\repos\NetflixCheckerSalt\NetflixCheckerSalt\obj\Release\NetflixCheckerSalt.Resources.resources
+C:\Users\Matthew\source\repos\NetflixCheckerSalt\NetflixCheckerSalt\obj\Release\NetflixCheckerSalt.vbproj.GenerateResource.cache
+C:\Users\Matthew\source\repos\NetflixCheckerSalt\NetflixCheckerSalt\obj\Release\NetflixCheckerSalt.vbproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\NetflixCheckerSalt\NetflixCheckerSalt\obj\Release\NetflixCheckerSalt.vbproj.CopyComplete
+C:\Users\Matthew\source\repos\NetflixCheckerSalt\NetflixCheckerSalt\obj\Release\NetflixCheckerSalt.exe
+C:\Users\Matthew\source\repos\NetflixCheckerSalt\NetflixCheckerSalt\obj\Release\NetflixCheckerSalt.xml
+C:\Users\Matthew\source\repos\NetflixCheckerSalt\NetflixCheckerSalt\obj\Release\NetflixCheckerSalt.pdb
+C:\Users\Matthew\source\repos\NetflixCheckerSalt\NetflixCheckerSalt\obj\Release\NetflixCheckerSalt.vbprojAssemblyReference.cache
